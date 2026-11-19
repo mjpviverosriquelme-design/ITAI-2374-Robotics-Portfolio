@@ -1,16 +1,14 @@
-# Lab 11
+# Lab 11 — Voice Interaction
 
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Folder prepared; lab title and submission details to be confirmed from course instructions.
+**Student:** Maria Jose Viveros Riquelme
 
-## Materials
+## Uploaded report
 
-Upload the submitted report, Python scripts, screenshots, experiment notes, and video references for Lab 11.
+[Open submitted DOCX report](Lab11_PiDog_Simple_Report_Maria_Jose_Viveros_Riquelme%20(1)%20(1).docx)
 
-## Documentation
+**Focus:** PiDog voice-interaction experiments. See the report for the methodology, actual observations, and any limitations.
 
-Describe the laboratory objective, steps actually performed, results, and troubleshooting. Only include verified work; do not upload API keys, credentials, or other secrets.
+**Status:** Lab 11 document uploaded. Additional standalone multimedia files are not currently shown in this folder.
 
-## Hardware note
-
-Document any SH3001 IMU or RGB strip limitations relevant to the experiment, if applicable.
+[All labs](../README.md)
