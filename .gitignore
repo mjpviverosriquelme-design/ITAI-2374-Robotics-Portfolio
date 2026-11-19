@@ -1,0 +1,67 @@
+# Python caches and compiled artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Secrets and local-only configuration
+.env
+.env.*
+!.env.example
+secret.py
+secrets.py
+*_secret.py
+*_secrets.py
+api_key.py
+apikey.py
+openai_api_key
+*.pem
+*.key
+credentials.json
+service_account.json
+*credentials*.json
+config.local.*
+local_settings.py
+
+# Transient runtime data and audio
+*.log
+*.pid
+*.sqlite
+*.sqlite3
+*.db
+tmp/
+temp/
+scratch/
+
+# Machine-specific and experimental output
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Review files before committing even if they are not ignored.
