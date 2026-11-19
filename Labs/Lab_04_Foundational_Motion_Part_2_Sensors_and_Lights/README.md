@@ -1,24 +1,13 @@
-# Lab 04 — Foundational Motion and Action Control — Part 2: Sensors, Lights, and Interactive Shells
+# Lab 04 — Foundational Motion, Part 2: Sensors and Lights
 
+**Student:** Maria Jose Viveros Riquelme  
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Files and evidence pending review.
+**Status:** Submitted document uploaded
 
-## Objective
+## Submission
 
-Document the work completed for this lab.
+[Open the uploaded DOCX file](ITAI_2374_PiDog_Lab_Report_3_Photos_Per_Page.docx)
 
-## Materials
+The uploaded artifact is the source of record for the assignment or lab. Consult the document itself for completed activities, evidence, explanations, and any limitations. No unsupported outcomes are claimed in this summary.
 
-Add reviewed source code, assignment instructions, relevant figures, and documentation here.
-
-## Procedure and results
-
-Describe the actual procedure, observations, and any troubleshooting. Do not treat planned tests as completed results.
-
-## Evidence
-
-Attach appropriately redacted screenshots or link to demonstration videos when available.
-
-## References
-
-Document external sources used for this lab.
+[Return to Labs index](../README.md)
