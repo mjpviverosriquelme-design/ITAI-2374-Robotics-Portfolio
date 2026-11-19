@@ -1,16 +1,14 @@
-# Lab 10
+# Lab 10 — App and Keyboard Control
 
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Folder prepared; lab title and submission details to be confirmed from course instructions.
+**Student:** Maria Jose Viveros Riquelme
 
-## Materials
+## Uploaded report
 
-Upload the submitted report, Python scripts, screenshots, experiment notes, and video references for Lab 10.
+[Open submitted DOCX report](Lab_10_PiDog_App_and_Keyboard_Control%20(1).docx)
 
-## Documentation
+**Focus:** PiDog app- and keyboard-control experiments. See the report for the methodology, actual observations, and any limitations.
 
-Describe the laboratory objective, steps actually performed, results, and troubleshooting. Only include verified work; do not upload API keys, credentials, or other secrets.
+**Status:** Lab 10 document uploaded. Additional standalone multimedia files are not currently shown in this folder.
 
-## Hardware note
-
-Document any SH3001 IMU or RGB strip limitations relevant to the experiment, if applicable.
+[All labs](../README.md)
