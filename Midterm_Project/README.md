@@ -1,9 +1,18 @@
-# Midterm Project
+# Midterm Project — PiDog V2
 
-PiDog V2 midterm documentation for assembly, servo calibration, basic motion, remote control trials, sensors, custom behavior, and live demonstration.
+**Student:** Maria Jose Viveros Riquelme  
+**Course:** ITAI-2374 — Robot Operating Systems & Platforms
 
-## Hardware notes
+## Submitted work
 
-IMU SH3001 and RGB strip initialization failed in prior tests. Document limitations honestly and preserve console logs.
+[PiDog Midterm — Report (DOCX)](PiDog_Midterm_Maria_Jose_Viveros_Riquelme%20%281%29.docx)
 
-**Status:** Evidence and scripts to be curated.
+This document covers the midterm robotics work, including PiDog assembly and calibration, motion, sensor-driven testing, remote-control experiments, and demonstration evidence.
+
+## Limitations
+
+The SH3001 IMU and RGB strip encountered initialization failures. The report should be consulted for the exact experiments performed and limitations observed.
+
+**Status:** Midterm report uploaded. No claim is made that separately recorded videos are stored in this directory.
+
+[Back to portfolio](../README.md)
