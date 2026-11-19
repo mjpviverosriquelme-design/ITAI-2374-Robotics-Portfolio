@@ -1,21 +1,17 @@
-# Lab 07 — Balance, Recovery, and Motion Refinement
+# Lab 07 — Balance, Recovery and Motion Refinement
 
-**Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Platform:** SunFounder PiDog V2 / Raspberry Pi 5  
-**Status:** Pending upload of reviewed report and evidence.
+**Course:** ITAI-2374 — Robot Operating Systems & Platforms
 
-## Objective
-Document the laboratory work on balance, recovery behaviors, and refinement of PiDog movement.
+## Uploaded report
 
-## Materials to upload
-- Lab 07 report or submission
-- Relevant Python scripts
-- Screenshots and photographs of actual tests
-- Video demonstration links, when available
-- Troubleshooting notes
+[Lab 07 — PiDog Calibration and Movements (DOCX)](Lab_07_PiDog_Calibration_and_Movements%20%281%29.docx)
 
-## Hardware limitations
-The PiDog's SH3001 IMU and RGB strip have failed initialization in earlier tests. Describe any resulting limitations and workarounds accurately; do not present untested features as completed.
+The report documents the movement and calibration work. Refer to the document for observed behavior and troubleshooting details.
 
-## Notes
-Only record procedures and results supported by the uploaded lab work. Do not commit API keys or other secrets.
+**Status:** Report uploaded. A separate MP4 file is not currently present in this GitHub folder.
+
+## Hardware limitation
+
+The IMU SH3001 and RGB strip failed initialization in prior tests; do not assume functionality that is not supported by the report.
+
+[All labs](../README.md)
