@@ -1,16 +1,14 @@
-# Lab 08
+# Lab 08 — Sound Effects
 
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Folder prepared; lab title and submission details to be confirmed from course instructions.
+**Student:** Maria Jose Viveros Riquelme
 
-## Materials
+## Uploaded report
 
-Upload the submitted report, Python scripts, screenshots, experiment notes, and video references for Lab 08.
+[Open submitted DOCX report](Lab_8_PiDog_Sound_Effects%20(1).docx)
 
-## Documentation
+**Focus:** Audio and sound-effects work. See the report for the methodology, actual observations, and any limitations.
 
-Describe the laboratory objective, steps actually performed, results, and troubleshooting. Only include verified work; do not upload API keys, credentials, or other secrets.
+**Status:** Lab 08 document uploaded. Additional standalone multimedia files are not currently shown in this folder.
 
-## Hardware note
-
-Document any SH3001 IMU or RGB strip limitations relevant to the experiment, if applicable.
+[All labs](../README.md)
