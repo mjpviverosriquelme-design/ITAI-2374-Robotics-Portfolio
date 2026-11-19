@@ -1,24 +1,13 @@
-# Assignment 04 — Robot HAT Hardware Components Documentation
+# Assignment 04 — Robot HAT Hardware Components
 
+**Student:** Maria Jose Viveros Riquelme  
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Files and evidence pending review.
+**Status:** Submitted document uploaded
 
-## Objective
+## Submission
 
-Document the work completed for this assignment.
+[Open the uploaded PDF file](Presentation_Group_1_Assignments_3%20and%204%20(1)%20(1).pdf)
 
-## Materials
+The uploaded artifact is the source of record for the assignment or lab. Consult the document itself for completed activities, evidence, explanations, and any limitations. No unsupported outcomes are claimed in this summary.
 
-Add reviewed source code, assignment instructions, relevant figures, and documentation here.
-
-## Procedure and results
-
-Describe the actual procedure, observations, and any troubleshooting. Do not treat planned tests as completed results.
-
-## Evidence
-
-Attach appropriately redacted screenshots or link to demonstration videos when available.
-
-## References
-
-Document external sources used for this assignment.
+[Return to Assignments index](../README.md)
