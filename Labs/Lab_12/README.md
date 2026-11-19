@@ -1,16 +1,14 @@
-# Lab 12
+# Lab 12 — Lab 12
 
 **Course:** ITAI-2374 — Robot Operating Systems & Platforms  
-**Status:** Folder prepared; lab title and submission details to be confirmed from course instructions.
+**Student:** Maria Jose Viveros Riquelme
 
-## Materials
+## Uploaded report
 
-Upload the submitted report, Python scripts, screenshots, experiment notes, and video references for Lab 12.
+[Open submitted DOCX report](Lab12_PiDog_Maria_Jose_Viveros_Riquelme%20(1).docx)
 
-## Documentation
+**Focus:** Laboratory work documented in the submitted report. See the report for the methodology, actual observations, and any limitations.
 
-Describe the laboratory objective, steps actually performed, results, and troubleshooting. Only include verified work; do not upload API keys, credentials, or other secrets.
+**Status:** Lab 12 document uploaded. Additional standalone multimedia files are not currently shown in this folder.
 
-## Hardware note
-
-Document any SH3001 IMU or RGB strip limitations relevant to the experiment, if applicable.
+[All labs](../README.md)
