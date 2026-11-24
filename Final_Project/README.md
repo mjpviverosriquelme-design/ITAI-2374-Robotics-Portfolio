@@ -1,21 +1,26 @@
-# Final Project — PiDog Interactive Robotics
+# Final Project — Marmaduke: When Love Speaks Two Languages
 
-## Goal
+**Status: Completed and documented.**
 
-Develop a PiDog V2 demonstration combining motion, at least one functioning sensor, and an interactive AI capability (voice or vision).
+## Overview
 
-## Planned components (not yet verified as complete)
+The final project explores human–robot interaction using SunFounder PiDog V2, Raspberry Pi 5, Python, and OpenAI language and speech models through two experiences: Marmaduke Learns Spanish and Marmaduke Telenovela Actor.
 
-- English and Spanish voice interaction
-- Camera-based gesture recognition
-- Interactive robot actions and behaviors
-- Ultrasonic obstacle-distance safety
-- Testing, documentation, and demonstration
+## Demonstrated results
 
-## Constraints
+- Spanish and English spoken interaction and accent experimentation.
+- Improvised telenovela dialogue and voice playback.
+- Personalized facial recognition, as documented in the report and demonstration.
+- Double head touch triggering tail feedback.
 
-Do not depend on the SH3001 IMU or RGB strip until those devices have been independently verified as operational. Do not upload API keys or raw sensitive configuration files.
+## Technical limitations
 
-## Delivery evidence
+Ultrasonic proximity detection was not successfully validated. Hardware initialization issues, intermittent recognition, background noise, and occasional inaccurate language-model responses are documented in the final report. Private API keys and facial profiles are not published. The source files are supplied as coursework artifacts, not a verified standalone installation.
 
-Design rationale, source code, test procedure, observed results, limitations, and demonstration materials will be added as each part is completed.
+## Deliverables
+
+- [Final report](docs/Marmaduke_Final_Report.md)
+- [Python source code](src/)
+- [Demonstration video](evidence/link_video_final.md)
+
+The report and demonstration document the observed results and limitations.
