@@ -23,6 +23,7 @@ This portfolio emphasizes practical experimentation, technical reporting, respon
 | [Lab 10 — App and Keyboard Control](../Labs/Lab_10/) | Remote-control experiment report |
 | [Lab 11 — Voice Interaction](../Labs/Lab_11/) | Voice-related experiment report |
 | [Midterm Project](../Midterm_Project/) | Robot demonstration documentation |
+| [Final Project — Marmaduke](../Final_Project/) | Bilingual interaction, final report, source code, and demonstration video |
 
 ## Learning and reflection
 
@@ -33,9 +34,9 @@ This work connects hardware assembly, robot behavior, AI interaction, and system
 - [Assignments](../Assignments/)
 - [Labs](../Labs/)
 - [Midterm Project](../Midterm_Project/)
-- [Final Project workspace](../Final_Project/)
+- [Final Project](../Final_Project/)
 - [Main portfolio README](../README.md)
 
-**Project status:** The final-project section remains in development. No unverified final-project results are claimed here.
+**Portfolio status: Complete.** All four assignments, twelve lab reports, the midterm report, and the final project documentation are available. The final project includes its report, three Python scripts, and a demonstration video link.
 
 **Contact:** [GitHub profile](https://github.com/mjpviverosriquelme-design)
